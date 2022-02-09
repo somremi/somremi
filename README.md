@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @somremi
-- 👀 I’m interested in HCI, ML, AI
+- 👀 I’m interested in HCI(Human Computer Interaction), ML, AI
 - 🌱 I’m currently learning HCI, ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
